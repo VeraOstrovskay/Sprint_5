@@ -35,5 +35,5 @@ class TestCunstructorTransition:
         assert scrolled_element.is_displayed()
 
         assert self.driver.find_element(*Locators.CONSTRUCT_LINK_ACTIVE).text == 'Булки'
-        
+
         
