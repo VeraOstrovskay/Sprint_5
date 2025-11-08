@@ -11,7 +11,7 @@ Sprint 5
 
 5. файл locators.py содержит локаторы элементов страницы, используемые в тестах
 
-6. файл test/test_construction.py содержит тесты для раздела "Конструктор"
+6. файл tests/test_construction.py содержит тесты для раздела "Конструктор"
     TestCunstructorTransition - Класс с тестами элементов конструктора
         test_click_to_rolls_link_active() - проверка перехода при клике на раздел "Булки"
         test_click_to_sauses_link_active() - проверка перехода при клике на раздел "Соусы"
