@@ -37,7 +37,7 @@ Sprint 5
         test_registration_wrong_password_allert_shows() - проверка появления ошибки при пароле длиной меньше 6 символов
         test_registration_empty_name_page_not_changed() - проверка не успешной регистрации при пустом поле имя
 
-10. файл tests/test_transit_by_click_to_personal_account.py содержит тест перехода в личный кабинет
+10. файл tests/test_transit_by_click_to_account.py содержит тест перехода в личный кабинет
     TestTransit - Класс с тестом перехода по клику на "Личный кабинет"
         test_transition_with_autorization_to_account_page() - проверка перехода по клику на "Личный кабинет" авторизованным  пользователем
 
