@@ -1,0 +1,6 @@
+main_page = 'https://stellarburgers.education-services.ru/'
+registration_url = f'{main_page}register'
+account_url = f'{main_page}account'
+account_login = f'{main_page}login'
+forgot_password_url = f'{main_page}forgot-password'
+account_profile_url = f'{main_page}account/profile'
